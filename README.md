@@ -3,17 +3,20 @@
 
 # Python 버전
 3.11.14
+파이썬 재설치 보다는 아나콘다 가상환경 사용 추천
 
 # 설치 방법 
-
 1. 프로젝트 클론 (PC에 복제)
 2. 가상환경 생성 및 활성화
 3. 라이브러리 설치(requirement.txt에 버전 정리 해둠) 
 4. 설치 코드 pip install -r requirements.txt
 5. 문제 시 주요 라이브러리만 설치 → pip install opencv-python numpy scikit-image mediapipe pandas
 
+# 작업 방식
+clone → branch → commit → pull → reabse(fetch) → push
+콜라보레이터 권한으로 포크 없이 클론만으로 직접 풀리퀘스트 가능
 
-# 참고사항
+# 참고 사항
 - Repository 자체에 gitignore 적용 완료　→　업로드 시 개인정보 파일은 자동 필터링(venv 등)
 - 혹시 모르니 업로드 전에 .gitignore 파일 확인 후 업로드 할 것
 
