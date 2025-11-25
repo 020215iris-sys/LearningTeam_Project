@@ -1,0 +1,762 @@
+[2025-11-25 08:44:45] 🌸 단일 파일 컬러칩 파이프라인 시작 🌸
+[2025-11-25 08:44:45] 👀 감시 시작 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_[OY단독] 더스키 핑크 (쿨 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_[OY단독] 미드나잇 콜(가을웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_[OY단독] 사일런트 (쿨 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_[OY단독] 소프트 스포큰(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_나이트 토크(쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_다키스트 아워(가을웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_다포딜(웜 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_더블 윈드(쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_디어 마치(뉴트럴 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_레이다운(웜 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_모어 피치(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_베스트 에버(여름쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_베이크 베이지(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_세피아(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_셀프 메이드(뉴트럴 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_스파이스드 라떼(가을웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_스팟 플레이어(쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_스피크 업(뉴트럴 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_얼리 아워(쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_웜스(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_인 더 나우(쿨 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_차일드라이크(봄웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_체이싱 로즈(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_캐시미어 누드(쿨 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_캐주얼 어페어(웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_코랄 문(봄웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_탱이 피버(틴티드 썸머 에디션).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_토프(가을웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_퍼스트 레터(뉴트럴 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_플레이 오프(뉴트럴 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_피그타치오(봄웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_핑크 구아바(쿨 베스트).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_3CE_히티드(봄웜 추천).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_NEW 베어 (BEAR).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_NEW 솔 (SOL).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_NEW 테디 (TEDDY).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_NEW 테이스티 (TASTY).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_누디(NUDI).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_던더 (DONDER).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_데니아(DENIA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_드모르 (DMORE).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_록스 (ROX).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_번트(BURNT).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_베이(BEI).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_블러쉬(BLUSH).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_세피아(SEPIA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_슬레이트 (SLATE).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_시엔나(SIENNA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_에트나 (ETNA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_오브디 (OVEDI).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_오브디(OVEDI).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_오일러 (OILER).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_오피아 (OPIA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_워니 (WANNY).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_이테일 (EYTAIL).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_인센디오 (INCENDIO).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_카프 (CAPH).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_튜린 (TURIN).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_페러데이 (FERADAY).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_페르소나 (PERSONA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_프리실라 (PRICILLA).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_핀 (PIN).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_하운드 (HOUND).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_헤이 (HEI).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_네이밍_히어리 (HEARLY).jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 131 크림차.jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 133 썸머.jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:35] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 135 히피.jpg
+[2025-11-25 08:53:35] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 136 우롱.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 137 브리즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 138 파르페.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 140 스쿱.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 141 콩포트.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 142 토피.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 143 브륄레.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 144 피스타치오.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 145 구아바.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 147 커런트.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 149 빈즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW) 150페퍼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW웜톤추천) 132 롤리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW웜톤추천) 146 카야딜.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW쿨톤추천) 134 피치스.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW쿨톤추천) 139 치팅.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(NEW쿨톤추천) 148 아사이.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(웜톤베스트) 101 조이풀.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(웜톤베스트) 120 카페인로즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(쿨톤베스트) 115 엔비.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(쿨톤베스트) 116 캔디드.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_(쿨톤베스트) 123 언스윗베리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_102 듀이.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_103 허밍.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_104 체리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_105 콜드.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_106 쥬이시.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_107 슈가.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_108 솔티.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_109 프레쉬.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_110 소다.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_111 멜로우.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_112 핑퐁.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_113 플레저.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_114 하모니.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_117 제타.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_118 어도어.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_119 드리밍.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_121 애쉬넛.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_122 로지로즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_124 마로.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_125 망고.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_126 루시.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_127 로제.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_128 라이크.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_129 마로니.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_라카_130 포그베리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독]01 포멜로 스킨.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독]02 누카다미아.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독]06 필링 앵두.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독]23 피치 피치 미.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독단품] 29 조선 무화과.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[올리브영단독단품]03 베어 그레이프.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[이나피] 17 피치 다운.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[조앤프렌즈][단품] 02 로지엔탈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[조앤프렌즈][단품] 07 쿨로즈업.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[조앤프렌즈][단품] 37 구아바데이지.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[조앤프렌즈][단품] 38 클라우디베리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[태닝 포차코] 31 탠드 코코.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_[태닝 포차코] 33 알로하 쥬시.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_01 포멜로코.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_02 로지엔탈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_03 머스키.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_04 라드 우드.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_04 피그 피그.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_05 비비 캔디.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_05 쥬쥬브.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_06 모비쉬.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_07 체리 밤.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_08 커런트 잼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_08 핑크 펌킨.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_09 멀드 피치.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_09 코랄 쥬빌레.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_10 베어 애프리콧.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_10 퍼지 레드.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_11 파파야 잼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_11 푸시아 바이브.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_12 애플 브라운.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_12 웜밍 업.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_13 잇 도토리.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_13 쿨링 업.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_14 아몬드 로즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_14 언로즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_15 베리 피즈.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_15 베어 피그.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_16 플럼 콕.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_17 다크 코코넛.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_19 썸머 센트.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_20 쥬쥬 피그.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_21 그레이프 밤.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_22 도토리 밤.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_24 베어 쥬시 오.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_26 신비 복숭아.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_27 허니 듀 멜론.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_28 설화 딸기.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_30 보늬 밤.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_31 탠드코코.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_32 태니 구아바.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_롬앤_33 알로하 쥬시.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_01 바닐라빈 크림인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_02 로즈 커스터드인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_03 딸기 베이비슈인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_04 복숭아 푸딩인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_05 꿀자몽 크레페인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_06 생체리 토핑인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_07 믹스베리 수플레인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_08 카야 버터인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_09 무화과 토스트인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_10 무화과 요거트인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_11 체리사과 파르페인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_12 쁘띠사과 쉬폰케익인 척.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_13 슈가 레이스인 척(핑크 클로젯).jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_릴리바이레드_14 로지 셔링인 척(핑크 클로젯).jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_[NEW컬러] 13 라떼당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_[NEW컬러] 14 메이플당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_01 피치당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_02 피그당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_03 포도당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_04 체리당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_05 자몽당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_06 땅콩당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_07 호두당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_08 대추당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_09 살구 퐁당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_10 딸기 퐁당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_11 앵두 퐁당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_삐아_12 사과당.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_[NEW] 16호 딸기무스 볼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_[NEW] 17호 로즈쿠키 볼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_[NEW] 19호 베리스무디 볼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:36] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_[NEW][올영단독]18호 워터멜론 볼.jpg
+[2025-11-25 08:53:36] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_1호 누디 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_1호 밀크 카라멜.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_2호 로즈 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_2호 바닐라 로즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_3호 바비 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_3호 솔티드 핑크.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_4호 토피 로즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_4호 피치 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_5호 모브 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_5호 카카오 50%.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_9호 코코 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_10호 와인 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_11호 돌리 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_12호 라일락 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_13호 오디 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_14호 밀크티 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_얼터너티브스테레오_15호 피그 볼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW] 12호 허니 코트.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW] 13호 로즈 크레마.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 1호 애플소르베.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 2호 오드코랄.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 3호 칠링칠링.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 4호 허쉬드 체리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 5호 로사.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 6호 브륄레.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 7호 스모크드.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 8호 페탈펀치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 9호 핑키로우키.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 10호 언더모브.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 11호 버터벨.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 12호 체리 소르베.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 13호 볼드 베리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 14호 핑크 팝.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 15호 세레나데.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 16호 마멀레이드.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 17호 진저 피치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 18호 통카.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 19호 베리 소다.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 20호 플럼 콩포트.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 22호 밀키 허니.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_[NEW단품] 23호 아포가토.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_1호 하이피 레드.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_2호 누가 필링.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_3호 사워 피치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_4호 프림 누드.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_5호 문릿.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_6호 세레나데.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_7호 베리 타르트.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_8호 보바 피그.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_9호 타로 모브.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_에스쁘아_10호 플럼 퓨레.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_000 뉴테.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_001 러퍼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_01 슬릭코랄.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_002 오드핀.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_02 피치피즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_003 블런토.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_03 뉴 로.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_004 로지트.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_04 틴.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_005 위얼브.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_05 포그베이.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_006 윈토.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_06 로지마롱.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_007 코랄린.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_07 애플리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_008 브로위.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_08 버니잼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_09 밋 베리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_오아드_10 뮤 모브.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_01 버터 스카치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_02 모모.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_03 와인 베리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_05 피그 퓨레.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_06 라즈베리 케익.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_캔메이크_07 후르츠 오레.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_01 살구살몬.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_02 플러핑크.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_03 피그블리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_04 코랄릿.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_05 레드티지.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_06 베리비키.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_07 긱로즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_08 힙초콜릿.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_09 바미레드.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_10 데드로즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_11 딥초콜릿.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_12 플럼디헬.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_13 번트마롱.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_14 딸기멜로.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_15 살구라이트.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_16 로코코랄.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_17 이븐피치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_컬러그램_18 베리몰리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_01 빈티지애플.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_03 블러쉬드피치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_04 페일플럼.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_05 프레쉬체리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_06 데일리모브.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_08 젠틀시나몬.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_09 베어피치.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_10 베이비베리.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_11 멜로우피그.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_12 파이어리로즈.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_13 코숏진주코랄.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_14 하트핑크다이아.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_15 그루밍피치오팔.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_16 럭셔리모브루비.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_17 클래식애플.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_18 프레쉬애플.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:37] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_19 베이비애플.jpg
+[2025-11-25 08:53:37] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_20 바닐라애플.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_25 다크체리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_26 모브체리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_27 허니체리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_클리오_28 드라이체리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_[올영단독] S03 애플쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_[올영단독] S04 그레이프 쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_[주토피아 콜라보] N16 하트럼쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_[주토피아 콜라보] S05 선셋볼쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N01 루비쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N02 토마토쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N03 코랄쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N04 핑크쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N05 페탈쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N06 레드쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N07 번트로즈쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N08 로즈쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N09 플럼쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N10 모브쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N11 로제트쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N12 페어리쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N13 애프리콧쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_N14 피치쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_S01 오렌지쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_토니모리_S02 브릭쇼킹.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_[단품] 01 네이키드.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_[단품] 02 겟 러브.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_[단품] 06 로맨스.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_[단품] 11 네이키드핑크.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_[단품] 12 조지아.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_03 보니타.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_04 베를린.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_05 산스.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_07 지지.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_10 유레카.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_13 엔젤애플.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_14 차밍.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_15 모던핑크.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_16 베어 애프리콧.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_투크_17 노체 핑크.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_01스위티듀.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_02바닐라듀.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_03위듀아웃.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_04멜바듀.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_06베리팝.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_07피치팝.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_08리치팝.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_09애플딥.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_10체리딥.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_11플럼딥.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_퓌_12피그딥.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_[NEW] 26 로즈 프레소.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_[NEW] 27 얼루어 로즈.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_01 베어.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_02 로 로즈.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_03 로프리콧.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_04 피버.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_05 히비스커스.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_06 로 그레이프.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_07 칠.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_08 레어.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_09 로 라일락.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_10 로 체리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_11 차이.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_12 로 휘그.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_13 핑크 페퍼.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_14 로 코코.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_15 바이트.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_16 로 베리.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
+[2025-11-25 08:53:38] 🆕 새 파일 감지 → C:\Users\USER\Desktop\project\NYLEARNING\data\01_colorchips\02_colorchips_filtered\pass\liptint_힌스_17 로 피치.jpg
+[2025-11-25 08:53:38] ❌ 에러: list index out of range
