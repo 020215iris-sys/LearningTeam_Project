@@ -132,6 +132,7 @@ def main():
     visualize_skin_position(
         palettes,
         season_input,
+        season_clf,
         save_path=str(img_path.parent / "skin_position.jpg")
     )
 
