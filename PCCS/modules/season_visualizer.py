@@ -77,50 +77,50 @@ def visualize_skin_position(palettes, skin_lab, classifier, save_path="skin_posi
 
     print(f"피부 Lab 위치 시각화 저장 완료 → {save_path}")
 
-def visualize_lip_position(palettes, lip_lab_list, save_path="lip_position.jpg"):
-    import matplotlib.pyplot as plt
+# def visualize_lip_position(palettes, lip_lab_list, save_path="lip_position.jpg"):
+#     import matplotlib.pyplot as plt
 
-    plt.figure(figsize=(8, 8))
+#     plt.figure(figsize=(8, 8))
 
-    season_colors = {
-        "spring": "#FFB347",
-        "summer": "#7EC8E3",
-        "autumn": "#C97F3D",
-        "winter": "#6A5ACD",
-    }
+#     season_colors = {
+#         "spring": "#FFB347",
+#         "summer": "#7EC8E3",
+#         "autumn": "#C97F3D",
+#         "winter": "#6A5ACD",
+#     }
 
-    # 시즌 팔레트 점들
-    for season, df in palettes.items():
-        plt.scatter(
-            df["a*"], df["L*"],
-            s=40,
-            alpha=0.6,
-            label=season,
-            c=season_colors.get(season, "gray")
-        )
+#     # 시즌 팔레트 점들
+#     for season, df in palettes.items():
+#         plt.scatter(
+#             df["a*"], df["L*"],
+#             s=40,
+#             alpha=0.6,
+#             label=season,
+#             c=season_colors.get(season, "gray")
+#         )
 
-    # 립색 좌표 찍기
-    for i, (L, a, b) in enumerate(lip_lab_list, start=1):
-        plt.scatter(
-            a, L,
-            s=350,
-            c="red",
-            marker="X",
-            edgecolors="black",
-            linewidths=2,
-            label="LIP" if i == 1 else None
-        )
-        plt.text(a + 1, L + 1, f"#{i}", fontsize=12)
+#     # 립색 좌표 찍기
+#     for i, (L, a, b) in enumerate(lip_lab_list, start=1):
+#         plt.scatter(
+#             a, L,
+#             s=350,
+#             c="red",
+#             marker="X",
+#             edgecolors="black",
+#             linewidths=2,
+#             label="LIP" if i == 1 else None
+#         )
+#         plt.text(a + 1, L + 1, f"#{i}", fontsize=12)
 
-    plt.gca().invert_yaxis()
-    plt.xlabel("a* (녹색 ← 0 → 빨강)")
-    plt.ylabel("L* (밝기)")
-    plt.title("Lip Color Lab Position inside Season Palettes (L vs a)")
-    plt.legend()
-    plt.grid(True, linestyle="--", alpha=0.3)
+#     plt.gca().invert_yaxis()
+#     plt.xlabel("a* (녹색 ← 0 → 빨강)")
+#     plt.ylabel("L* (밝기)")
+#     plt.title("Lip Color Lab Position inside Season Palettes (L vs a)")
+#     plt.legend()
+#     plt.grid(True, linestyle="--", alpha=0.3)
 
-    plt.savefig(save_path, dpi=250)
-    plt.close()
+#     plt.savefig(save_path, dpi=250)
+#     plt.close()
 
-    print(f"립 위치 시각화 저장 완료 → {save_path}")
+#     print(f"립 위치 시각화 저장 완료 → {save_path}")
 
